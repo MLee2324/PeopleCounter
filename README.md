@@ -122,4 +122,4 @@ Built as a personal computer vision project using YOLOv8 and OpenCV.
 
 ## Notes
 
-This project emphasizes clarity and correctness over complexi
+This project emphasizes clarity and correctness over complexity and is intended as a learning-focused implementation rather than a production system.
